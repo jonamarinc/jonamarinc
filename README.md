@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm trying to learn/learning to try GitHub!
+
 <!--
 **jonamarinc/jonamarinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
